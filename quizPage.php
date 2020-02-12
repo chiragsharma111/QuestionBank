@@ -95,7 +95,7 @@
 			transition: 0.2s;
 			margin-top: 25px;
 			margin-bottom: 20px;
-			box-shadow: 5px 10px 18px #888888;
+			box-shadow: 5px 5px 18px #888888;
 			/*background-color: red;*/
 /*			border: 1px transparent;*/
 		}
